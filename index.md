@@ -1,12 +1,12 @@
-# **Questions that I had as a first-year computer science student:
+# Questions that I had as a first-year computer science student:
 
-**1) **How do I find resources?**
+## **How do I find CSE resources?**
 
    1. You can find out about almost anything by plugging it into a search engine with “ucsd” somewhere in the query
 
    2. If you have a question about anything related to the CSE department - it’s probably somewhere in the CSE website! (section on exploring the CSE website and finding helpful resources/info)
 
-2) **How do I plan courses/classes?**
+## **How do I plan courses/classes?**
 
    1. Degree audit helps a lot to see what you need to check off, Webreg (of course) to see what classes are offered this quarter
 
@@ -16,25 +16,27 @@
 
    4. Make sure to keep in mind your specific college GE’s, CSE GE’s, CSE lower div reqs, and CSE upper div reqs
 
-3) **Internships? Research? Grad School? So much pressure as a first-year student**
+## **Internships? Research? Grad School? So much pressure as a first-year student**
 
-   1. Totally understandable to feel pressure. Take comfort in the fact that you are exactly where you need to be in this moment, and there are quality resources here at UCSD to help you fuel your self-discovery and search for what’s next.
+Totally understandable to feel pressure. Take comfort in the fact that you are exactly where you need to be in this moment, and there are quality resources here at UCSD to help you fuel your self-discovery and search for what’s next.
 
-   2. Getting started:
+Here is some advice on how to get started:
 
-      1. How do I even know what I want to do?
+#### How do I know what I want to do?
 
-   3. How do I make a resume if I don’t have any experience?
+#### How do I make a resume if I don’t have any experience?
 
-      1. Check out the Resources section of the
+      1.Check out the Resources section of the
 
-   4. I have a resume, how do I know if it’s good enough to apply with?
+#### I have a resume, how do I know if it’s good enough to apply with?
 
-      1. Have someone who is more experienced to read it!
+Have someone who is more experienced read it! Some resources for this are club events, like Resume Reviews! ACM, WIC, and many other clubs have this event throughout the year. You can even ask for a resume review in the ACM or IEEE Discord servers!
+
+You could also go to UGCOM office hours. You can check [here](https://cse.ucsd.edu/undergraduate/advising/undergraduate-committee-ugcom-advising-and-mentorship) which professors are specialize in resume reviews/career advice! 
+
 
       2. Schedule a session with the Career Center
 
-      3. Ask for resume review in the ACM or IEEE Discord servers
 
    5. What is Handshake?
 
