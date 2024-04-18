@@ -34,35 +34,28 @@ Have someone who is more experienced read it! Some resources for this are club e
 
 You could also go to UGCOM office hours. You can check [here](https://cse.ucsd.edu/undergraduate/advising/undergraduate-committee-ugcom-advising-and-mentorship) which professors are specialize in resume reviews/career advice! 
 
+Another option is to schedule a session with the [Career Center](https://career.ucsd.edu)! They have resources for making resumes, finding job opportunities, applying to grad school, and much more!
 
-      2. Schedule a session with the Career Center
+#### So I have a resume, and now I want to apply for a job or research opportunity... where can I do that? 
 
+Let me introduce you to Handshake! Handshake is the main platform we use to interact with our Career Center! It’s a place where many part-time, full-time, on-campus and off-campus jobs and internships are posted (and target UCSD students directly!!!) Virtual Career fairs also take place there,too! 
 
-   5. What is Handshake?
+Another cool features that Handshake has is a messaging service where you can communicate with potential employers and recruiters about opportunities and/or get to know them better! 
 
-      1. It’s the main platform we use to interact with our Career Center
+If you do not know where to start on your job search, we reccomend turning to Handshake! You will definetely get a helping hand there!!
 
-      2. For two, it’s a place where many part-time, full-time, on-campus and off-campus jobs and internships are posted (and target UCSD students directly!!!)
+#### I applied to a job and the company sent me an email with an online assessment, what are my next steps?
 
-      3. For three, it’s where Virtual Career fairs take place 
+First of all, congratulations! This is a huge accomplishment in itself! Second of all, take a deep breath because you got this! 
 
-      4. For four, it’s a messaging service where you can communicate with potential employers and recruiters about opportunities and/or get to know them better
+Online Assessments usually are timed coding tests. They tend to test on data structures and algorithms, which are things we mostly cover in CSE 12, CSE 100, and CSE 101. A good place to get an practice for this coding tests are on Leetcode and HackerRank. On both of these websites, they have recommended problems to study for interviews. You can even time yourself doing these to get a good idea of how the test will feel. 
 
-   6. What do Online Assessments (OAs) usually look like? How should I prepare for them? What resources do people often use?
+There are two types of online assessements that we, LPMs, have seen. There is one type, where you asynchonously take the test and your code is autograded. Usually the company will send you an email and give you a timeframe you need to complete the timed test in. For example, you may have a week to take a 90 minute timed coding tests. 
 
-      1. Leetcode, Blind75
+The other type of online assessment we have seen is one where the interviewer watches you code on live on a video call. For this coding interivew, remember that the interviewer wants to hear you explain your thought process. It is also ok to make a mistake. Often times, in my experience, if you make a mistake, the interviewer will point it out and give you a chance to talk through the logic. With this, you are able to demonstrate your problem solving skills and potentially debug the issue! 
 
-      2. HackerRank
+Another tip for both types of online assessments is to come up with custom test cases to test your code. This shows the interviewer that you are a critical thinker and will help you write less buggy code/have a deeper understanding of the problem that you are trying to solve in general. 
 
-   7. I got an interview, how do I prepare? 
-
-      1. Technical Interview 
-
-         1. Data structures and algorithms
-
-         2. Practice explaining your thought process 
-
-         3. Test cases
 
       2. Behavioral Interview 
 
