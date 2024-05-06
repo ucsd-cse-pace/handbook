@@ -46,7 +46,7 @@ Most student organizations table at library walk and going up to their table is 
 
 TODO
 
-## **Internships?**
+## **Internships?** <a name="Internship"></a>
 
 Totally understandable to feel pressure. Take comfort in the fact that you are exactly where you need to be in this moment, and there are quality resources here at UCSD to help you fuel your self-discovery and search for what’s next.
 
@@ -94,13 +94,49 @@ For a behavioral interview, a fun idea to practice is to look up common behavior
 
 #### What are some alternatives to internships?
 
-Research and school opportunities are other great alternatives to internships if you would still like to gain experience. For second years, there is the ERSP and GEAR program, which is are year long programs that introduce you to research and give you some experience. The application usually comes out in March/April and you should apply during your first year at UCSD if you are interested.
+Research and school opportunities are other great alternatives to internships if you would still like to gain experience. For second years, there are the ERSP and GEAR programs, which are year-long programs that introduce you to research and give you some experience. The application usually comes out in March/April and you should apply during your first year at UCSD if you are interested.
 
-For school opportunities, you can apply to be a CS tutor, SPIS mentor, or even a Lead Peer Mentor for PACE! There are many other engineering mentorship programs/jobs on campus. The IDEA center has study groups which are lead by students for the lower division classes, as well as other summer programs that you can apply to mentor for.
+For school opportunities, you can apply to be a CS tutor, SPIS mentor, or even a Lead Peer Mentor for PACE! There are many other engineering mentorship programs/jobs on campus. The IDEA center has study groups which are led by students for the lower division classes, as well as other summer programs that you can apply to mentor for.
 
 ## **Research?**
 
-TODO
+There are a lot of different aspects of computer science, and research is one of them. Research is a great way to gain hands-on experience in the computing field you're interested in, while also opening opportunities to interact with faculty. However, research is not for everyone so don't feel pressured that you have to have research experience.
+
+If you are interested in research, here is some advice on how to get started:
+
+#### **Where do I start with finding research opportunities?**
+
+Research the different research projects! You can find the different research computing topics [Here](https://cse.ucsd.edu/research)! 
+
+Find something that interests you! It is totally normal to not know what you want to do yet. Doing research is a great way to dive into a specific topic to see if it aligns with your long-term career goals.
+
+If you are a first-year and are looking for research opportunities for your second year, there are the ERSP and GEAR programs, which are year-long research programs. Applications open in March/April and you should apply during your first year at UCSD if you are interested.
+
+#### **How should I prepare to get a research opportunity?**
+
+Make sure your Resume is up-to-date. If you are having trouble with your resume, there are some resume tips and resources listed in the [Internship](#Internship) section. Remember that as a first-year student, professors or recruiters don't expect you to have a ton of computing experience. You can list your high school experience, class projects, and/or extracurricular activities.
+
+Most professors recommend you read their previous research paper(s) or just have a bit of background on their work before you speak with them. Therefore, do some research on what research you are interested in and find the professor in charge. 
+
+Once you have found the professor you are interested in doing research for, you are ready for the next steps...
+
+#### **How do I get a research opportunity?**
+
+Contact the professor in charge of the research lab you are interested in. You can either email the professor or go to their UGCOM office hours if they have them. When contacting the professor:
+
+    1. Introduce yourself 
+    2. Why you are reaching out to them? 
+        1. Why you are interested in their research?
+        2. What skills can you bring to benefit the research team?  
+
+#### **What happens if I don't get a research opportunity?**
+
+That's okay! There are endless opportunities at UCSD, whether it is computing-related or not. 
+
+You can apply to be a CSE tutor or a mentor if you are looking for leadership experience. 
+
+You can also join one of the computing organizations to get some hands-on experience at UCSD... some examples are WIC, ACM, PIB, TSE, and so many more! 
+There are also many other [social organizations](https://studentorg.ucsd.edu/) that you could potentially join. 
 
 ## Personal Projects
 
