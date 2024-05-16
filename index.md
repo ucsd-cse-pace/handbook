@@ -2,7 +2,7 @@
 
 ## **Department resources? UCSD is a great school for CS I want to take advantage of all the resources possible!**
 
-UCSD has a great CS department and all the staff are super supportive. One thing that helps a lot is to show up to office hours for your classes and just interacting with the Professors a lot. This will help you get more connected with the department and maybe land a few tutoring spots! It will also help you get familiar with what research each Prof is doing, which you can ask later to join their research group. This is especially more prevalent as you go into your upper division courses, but you should still do this for your lower div classes for practice + potential tutoring spot.
+UCSD has a great CS department and all the staff are super supportive. One thing that helps a lot is to show up to office hours for your classes and just interacting with the Professors a lot. This will help you get more connected with the department and maybe land a few TA spots! It will also help you get familiar with what research each Prof is doing, which you can ask later to join their research group. This is especially more prevalent as you go into your upper division courses, but you should still do this for your lower div classes for practice + potential TA spot.
 
 Another thing that helps is just showing up to a lot of events and plugging yourself into the department more so that you’re aware of all the events and resources going on throughout the department. Like my first year I (Peter) joined PACE (shameless plug) where I learned about ERSP, which is basically a research program for CS students, which I’m in right now! Stuff like PACE can provide a lot of resources for you to learn about all the stuff going on in the department.
 
@@ -12,19 +12,19 @@ Also there are a lot of networking/job events that UCSD and/or Jacobs School of 
 
 #### **How do I plan courses/classes?**
 
-A useful tool in seeing which credits you've already fulfilled, which courses you still need to take for your major, minor, college, etc., and other degree requirements is the [UCSD Degree Audit](https://students.ucsd.edu/academics/advising/degrees-diplomas/degree-audits.html). An obvious one is [WebReg](https://students.ucsd.edu/academics/enroll/index.html) which you may already use to enroll in courses, but when trying to visualize different versions of your course schedule, you can make different copies and name them accordingly!
+A useful tool in seeing which credits you've already fulfilled, which courses you still need to take for your major, minor, college, etc., and other degree requirements is the UCSD Degree Audit. An obvious one is WebReg which you may already use to enroll in courses, but when trying to visualize different versions of your course schedule, you can make different copies and name them accordingly!
 
 Another tip is to either create your own course planner or utilize the [UCSD template](https://revelle.ucsd.edu/academics/academic-plans/index.html#Step-1:-Quarter-Planning-Worksh) in something like google sheets to plan courses you'd want to take each quarter and check them off as you go.
 
-When trying to decide which courses to take, [CAPEs](https://cape.ucsd.edu/) (now [SET](https://set.ucsd.edu/)) and [RateMyProfessor](https://www.ratemyprofessors.com/) are really good resources to go to to see how much time to dedicate to each class and which Professors are good and which ones are not (which actually matters a lot when it comes to classes!) CAPES has a lot of useful quantitative data like the percent of students who recommend the course or professor, average time spent on assignments per week, and a difficulty rating. Meanwhile, RateMyProfessor has detailed qualitative reviews which dictate individual student's experiences with the professor.
+When trying to decide which courses to take, CAPEs (now SET) and RateMyProfessor are really good resources to go to to see how much time to dedicate to each class and which Professors are good and which ones are not (which actually matters a lot when it comes to classes!) CAPES has a lot of useful quantitative data like the percent of students who recommend the course or professor, average time spent on assignments per week, and a difficulty rating. Meanwhile, RateMyProfessor has detailed qualitative reviews which dictate individual student's experiences with the professor.
 
-Lastly, make sure to keep in mind your specific [college GE’s](https://catalog.ucsd.edu/undergraduate/graduation-requirements/index.html) and [CSE major requirements](https://catalog.ucsd.edu/curric/CSE-ug.html). When all else fails, feel free to schedule an appointment with or drop into CSE or your respective college's advising! You can also submit any questions you have on the Virtual Advising Center [(VAC)](https://stark.ucsd.edu/students/vac/).
+Lastly, make sure to keep in mind your specific college GE’s, CSE GE’s, CSE lower div reqs, and CSE upper div reqs. When all else fails, feel free to schedule an appointment with or drop into CSE or your respective college's advising! You can also submit any questions you have on the Virtual Advising Center (VAC).
 
 #### **How do I manage my time with all my classes? Do I have to show up to every lecture? Is it okay to skip certain classes?**
 
 Time-management is an important skill that you'll develop at university but things inevitably happen throughout the quarter: accidents, adverse weather, time conflicts, etc. Many classes in UCSD are designed with these in mind, e.g. you can drop your lowest HW, replace a midterm with final, etc. Use these policies to build flexibility in your schedule in case something bad happens. At the end of the day, UCSD classes and the course staff are there to help you, so don’t feel afraid to reach out.
 
-1.  If you feel like you have too many things to do in a quarter, consider taking one of the classes in a later quarter. Most classes are available every quarter, and there are many other ways to be active on campus that are not classes. LPMs recommend taking 3 CSE classes maximum a quarter, preferably just 2 or 1.
+1.  If you feel like there are too many things to do in a quarter, consider taking one of the classes in a later quarter. Most classes are available every quarter, and there are many other ways to be active on campus that are not classes.
 
 2.  Managing time is at its core understanding how you feel about a class. Consider timing how long (approximately) it took you to complete a HW for each class you have. Then reflect whether this time is reasonable, and reflect more generally about how you’re tackling the material in the class.
 
@@ -32,18 +32,7 @@ Time-management is an important skill that you'll develop at university but thin
 
 Attending a big lecture can feel really isolating and hard to meet people but my biggest advice is to try and make friends and connect with people in your classes! Teaching each other is one of the best ways to learn and confirm your understanding of material, and you can help others with topics you feel you deeply comprehend while getting helped on topics you may struggle with. It’s great to learn from another student as it provides new perspective on a problem and you can see how other peers are thinking about concepts and problems and learn from them. Most times, other students have been in the same place you are of feeling confused and overwhelmed and can draw on that mindset to explain concepts in terms that are easier to understand from a student perspective. Plus maybe you'll pick up a few study habits or two that you found admirable from others!
 
-1.  Office hours. I cannot emphasize this enough but office hours are literally the key to success in every CS class. The TAs and Profs are there to HELP YOU LEARN. Show up to office hours about questions on homework, in class, or in general any conceptual questions you have. It may seem like a chore at first to show up and take time out of your day to attend even MORE supplementary learning (ugh I know) but office hours are so helpful because it’s 1-on-1 teaching where you can get help for your specific problem!! It helps to explain your through process and where you got stuck, and your TA/Prof is literally there to help you work out ever nook and cranny of your problem so that you get it 100%. They won’t judge you for not understanding stuff because that’s the whole point of office hours! We have a lot of great LPMs on PACE that are also tutors so I can personally vouch that they are super helpful and nice, and will walk you through every bit of your problem that they can. Again, cannot emphasize this enough. Show up when you can!
-
-#### **What are some recommended CSE courses?**
-
-TODO: Add description of each class
-
-1. CSE 100
-2. CSE 110
-3. CSE 101 
-
-#### **What are some tips for taking class in a certain order or taking concurrent classes?**
-
+1.  Office hours. I cannot emphasize this enough but office hours are literally the key to success in every CS class. The TAs and Profs are there to HELP YOU LEARN. Show up to office hours about questions on homework, in class, or in general any conceptual questions you have. It may seem like a chore at first to show up and take time out of your day to attend even MORE supplementary learning (ugh I know) but office hours are so helpful because it’s 1-on-1 teaching where you can get help for your specific problem!! It helps to explain your through process and where you got stuck, and your TA/Prof is literally there to help you work out ever nook and cranny of your problem so that you get it 100%. They won’t judge you for not understanding stuff because that’s the whole point of office hours! We have a lot of great LPMs on PACE that are also TAs so I can personally vouch that they are super helpful and nice, and will walk you through every bit of your problem that they can. Again, cannot emphasize this enough. Show up when you can!
 
 # Advice on Extracurricular Activities
 
