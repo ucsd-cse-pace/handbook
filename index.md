@@ -1,6 +1,43 @@
 # Questions that I had as a first-year computer science student:
 
-## **Department resources? UCSD is a great school for CS I want to take advantage of all the resources possible!**
+## Table of Contents
+
+1. [Introduction](#introduction)
+    1. [Department Resources](#i-hear-ucsd-is-a-great-school-for-cs-so-i-want-to-take-advantage-of-all-the-resources-possible)
+2. [Classes](#advice-on-classes)
+    1. [Planning Courses](#how-do-i-plan-coursesclasses)
+    2. [Managing Time with Courses](#how-do-i-manage-my-time-with-all-my-classes-do-i-have-to-show-up-to-every-lecture-is-it-okay-to-skip-certain-classes)
+    3. [When Struggling with Courses](#im-struggling-with-my-classes)
+3. [Extracurriculars](#advice-on-extracurricular-activities)
+    1. [Student Organizations](#student-organizations)
+    2. [Getting Involved with Organizations](#how-should-i-get-involved-with-student-organizations-should-i-go-and-talk-with-leadership)
+    3. [Anxiety Getting into Organizations](#im-really-shy-and-scared-to-go-to-this-org-event-but-i-want-to-be-involved)
+4. [Internships](#internships)
+    1. [Finding what you want to do](#how-do-i-know-what-i-want-to-do)
+    2. [Starting a Resume](#how-do-i-make-a-resume-if-i-dont-have-any-experience)
+    3. [Polishing your Resume](#i-have-a-resume-how-do-i-know-if-its-good-enough-to-apply-with)
+    4. [Applying with a Resume](#so-i-have-a-resume-and-now-i-want-to-apply-for-a-job-or-research-opportunity-where-can-i-do-that)
+    5. [Online Assessments](#i-applied-to-a-job-and-the-company-sent-me-an-email-with-an-online-assessment-what-are-my-next-steps)
+    6. [Behavioral Interviews](#how-do-i-prepare-for-a-behaviorial-interview)
+    7. [Alternatives to Internships](#what-are-some-alternatives-to-internships)
+5. [Research](#research)
+    1. [Finding Research Opportuinties](#where-do-i-start-with-finding-research-opportunities)
+    2. [Preparing for Research](#how-should-i-prepare-to-get-a-research-opportunity)
+    3. [Getting a Research Opportunity](#how-do-i-get-a-research-opportunity)
+    4. [Alternatives to Research](#what-happens-if-i-dont-get-a-research-opportunity)
+6. [Personal Projects](#personal-projects)
+    1. [Starting Personal Projects](#where-do-i-start-with-personal-projects-and-do-i-need-them-for-my-resume)
+    2. [Coding Competitions and Hackatons](#are-there-any-coding-competitions-or-hackathons-on-campus-that-i-can-participate-in-to-enhance-my-skills)
+7. [Networking](#networking-advice)
+    1. [On Networking Proactively](#how-can-i-proactively-network-with-professionals-in-the-computer-science-industry-as-a-first-year-student)
+    2. [Online Networking Platforms](#what-online-platforms-should-i-look-at-to-connect-with-other-computing-majors-as-well-as-share-and-learn-helpful-resources)
+8. [Being a Student and Person](#advice-on-being-a-student-and-a-person)
+    1. [Work-School-Life Balance](#what-is-the-best-way-you-would-recommend-approaching-a-work-school-and-life-balance)
+9. [Resources](#resources)
+
+
+## Introduction: 
+### I hear UCSD is a great school for CS, so I want to take advantage of all the resources possible!
 
 UCSD has a great CS department and all the staff are super supportive. One thing that helps a lot is to show up to office hours for your classes and just interacting with the Professors a lot. This will help you get more connected with the department and maybe land a few TA spots! It will also help you get familiar with what research each Prof is doing, which you can ask later to join their research group. This is especially more prevalent as you go into your upper division courses, but you should still do this for your lower div classes for practice + potential TA spot.
 
@@ -8,9 +45,9 @@ Another thing that helps is just showing up to a lot of events and plugging your
 
 Also there are a lot of networking/job events that UCSD and/or Jacobs School of Engineering Hosts that are for students. A lot of times there are recruiters there just to meet and talk with you, they are interested in getting to know you! You can ask them your questions and also get connected with them for future jobs. It helps a lot to get to know them in person so that they can really get to know your character beyond just a few lines on a resume.
 
-# Advice on Classes
+## Advice on Classes
 
-#### **How do I plan courses/classes?**
+### How do I plan courses/classes?
 
 A useful tool in seeing which credits you've already fulfilled, which courses you still need to take for your major, minor, college, etc., and other degree requirements is the UCSD Degree Audit. An obvious one is WebReg which you may already use to enroll in courses, but when trying to visualize different versions of your course schedule, you can make different copies and name them accordingly!
 
@@ -20,7 +57,7 @@ When trying to decide which courses to take, CAPEs (now SET) and RateMyProfessor
 
 Lastly, make sure to keep in mind your specific college GE’s, CSE GE’s, CSE lower div reqs, and CSE upper div reqs. When all else fails, feel free to schedule an appointment with or drop into CSE or your respective college's advising! You can also submit any questions you have on the Virtual Advising Center (VAC).
 
-#### **How do I manage my time with all my classes? Do I have to show up to every lecture? Is it okay to skip certain classes?**
+### How do I manage my time with all my classes? Do I have to show up to every lecture? Is it okay to skip certain classes?
 
 Time-management is an important skill that you'll develop at university but things inevitably happen throughout the quarter: accidents, adverse weather, time conflicts, etc. Many classes in UCSD are designed with these in mind, e.g. you can drop your lowest HW, replace a midterm with final, etc. Use these policies to build flexibility in your schedule in case something bad happens. At the end of the day, UCSD classes and the course staff are there to help you, so don’t feel afraid to reach out.
 
@@ -28,39 +65,39 @@ Time-management is an important skill that you'll develop at university but thin
 
 2.  Managing time is at its core understanding how you feel about a class. Consider timing how long (approximately) it took you to complete a HW for each class you have. Then reflect whether this time is reasonable, and reflect more generally about how you’re tackling the material in the class.
 
-#### **I’m struggling with my classes…**
+### I’m struggling with my classes…
 
 Attending a big lecture can feel really isolating and hard to meet people but my biggest advice is to try and make friends and connect with people in your classes! Teaching each other is one of the best ways to learn and confirm your understanding of material, and you can help others with topics you feel you deeply comprehend while getting helped on topics you may struggle with. It’s great to learn from another student as it provides new perspective on a problem and you can see how other peers are thinking about concepts and problems and learn from them. Most times, other students have been in the same place you are of feeling confused and overwhelmed and can draw on that mindset to explain concepts in terms that are easier to understand from a student perspective. Plus maybe you'll pick up a few study habits or two that you found admirable from others!
 
 1.  Office hours. I cannot emphasize this enough but office hours are literally the key to success in every CS class. The TAs and Profs are there to HELP YOU LEARN. Show up to office hours about questions on homework, in class, or in general any conceptual questions you have. It may seem like a chore at first to show up and take time out of your day to attend even MORE supplementary learning (ugh I know) but office hours are so helpful because it’s 1-on-1 teaching where you can get help for your specific problem!! It helps to explain your through process and where you got stuck, and your TA/Prof is literally there to help you work out ever nook and cranny of your problem so that you get it 100%. They won’t judge you for not understanding stuff because that’s the whole point of office hours! We have a lot of great LPMs on PACE that are also TAs so I can personally vouch that they are super helpful and nice, and will walk you through every bit of your problem that they can. Again, cannot emphasize this enough. Show up when you can!
 
-# Advice on Extracurricular Activities
+## Advice on Extracurricular Activities
 
-## **Student Organizations**
+### Student Organizations
 
-#### **How should I get involved with student organizations? Should I go and talk with leadership?**
+### How should I get involved with student organizations? Should I go and talk with leadership?
 
 Most student organizations table at library walk and going up to their table is a great first step in getting involved with the student library walk. If you have social media, you can also follow the organization’s page to stay up to date with different events they are hosting.
 
-#### **I’m really shy and scared to go to this org event but I want to be involved.**
+### I’m really shy and scared to go to this org event but I want to be involved.
 
 TODO
 
-## **Internships?** <a name="Internship"></a>
+## Internships?
 
 Totally understandable to feel pressure. Take comfort in the fact that you are exactly where you need to be in this moment, and there are quality resources here at UCSD to help you fuel your self-discovery and search for what’s next.
 
 Here is some advice on how to get started:
 
-#### How do I know what I want to do?
+### How do I know what I want to do?
 
 TODO
 
-#### How do I make a resume if I don’t have any experience?
+### How do I make a resume if I don’t have any experience?
 
 TODO
 
-#### I have a resume, how do I know if it’s good enough to apply with?
+### I have a resume, how do I know if it’s good enough to apply with?
 
 Have someone who is more experienced read it! Some resources for this are club events, like Resume Reviews! ACM, WIC, and many other clubs have this event throughout the year. You can even ask for a resume review in the ACM or IEEE Discord servers!
 
@@ -68,7 +105,7 @@ You could also go to UGCOM office hours. You can check [here](https://cse.ucsd.e
 
 Another option is to schedule a session with the [Career Center](https://career.ucsd.edu)! They have resources for making resumes, finding job opportunities, applying to grad school, and much more!
 
-#### So I have a resume, and now I want to apply for a job or research opportunity... where can I do that?
+### So I have a resume, and now I want to apply for a job or research opportunity... where can I do that?
 
 Let me introduce you to Handshake! Handshake is the main platform we use to interact with our Career Center! It’s a place where many part-time, full-time, on-campus and off-campus jobs and internships are posted (and target UCSD students directly!!!) Virtual Career fairs also take place there,too!
 
@@ -76,7 +113,7 @@ Another cool features that Handshake has is a messaging service where you can co
 
 If you do not know where to start on your job search, we reccomend turning to Handshake! You will definetely get a helping hand there!!
 
-#### I applied to a job and the company sent me an email with an online assessment, what are my next steps?
+### I applied to a job and the company sent me an email with an online assessment, what are my next steps?
 
 First of all, congratulations! This is a huge accomplishment in itself! Second of all, take a deep breath because you got this!
 
@@ -88,23 +125,23 @@ The other type of online assessment we have seen is one where the interviewer wa
 
 Another tip for both types of online assessments is to come up with custom test cases to test your code. This shows the interviewer that you are a critical thinker and will help you write less buggy code/have a deeper understanding of the problem that you are trying to solve in general.
 
-#### How do I prepare for a behaviorial interview?
+### How do I prepare for a behaviorial interview?
 
 For a behavioral interview, a fun idea to practice is to look up common behaviorial interview questions and do a mock interview with your friends. Practice using the STAR method when communicating your experiences to help get your points across. You can also check Glassdoor for previously asked questions! Make sure to research company website for news and values. Usually the interviewer will ask you what you know about the company and why you want to work there.
 
-#### What are some alternatives to internships?
+### What are some alternatives to internships?
 
 Research and school opportunities are other great alternatives to internships if you would still like to gain experience. For second years, there are the ERSP and GEAR programs, which are year-long programs that introduce you to research and give you some experience. The application usually comes out in March/April and you should apply during your first year at UCSD if you are interested.
 
 For school opportunities, you can apply to be a CS tutor, SPIS mentor, or even a Lead Peer Mentor for PACE! There are many other engineering mentorship programs/jobs on campus. The IDEA center has study groups which are led by students for the lower division classes, as well as other summer programs that you can apply to mentor for.
 
-## **Research?**
+## Research?
 
 There are a lot of different aspects of computer science, and research is one of them. Research is a great way to gain hands-on experience in the computing field you're interested in, while also opening opportunities to interact with faculty. However, research is not for everyone so don't feel pressured that you have to have research experience.
 
 If you are interested in research, here is some advice on how to get started:
 
-#### **Where do I start with finding research opportunities?**
+### Where do I start with finding research opportunities?
 
 Research the different research projects! You can find the different research computing topics [Here](https://cse.ucsd.edu/research)! 
 
@@ -112,7 +149,7 @@ Find something that interests you! It is totally normal to not know what you wan
 
 If you are a first-year and are looking for research opportunities for your second year, there are the ERSP and GEAR programs, which are year-long research programs. Applications open in March/April and you should apply during your first year at UCSD if you are interested.
 
-#### **How should I prepare to get a research opportunity?**
+### How should I prepare to get a research opportunity?
 
 Make sure your Resume is up-to-date. If you are having trouble with your resume, there are some resume tips and resources listed in the [Internship](#Internship) section. Remember that as a first-year student, professors or recruiters don't expect you to have a ton of computing experience. You can list your high school experience, class projects, and/or extracurricular activities.
 
@@ -120,7 +157,7 @@ Most professors recommend you read their previous research paper(s) or just have
 
 Once you have found the professor you are interested in doing research for, you are ready for the next steps...
 
-#### **How do I get a research opportunity?**
+### How do I get a research opportunity?
 
 Contact the professor in charge of the research lab you are interested in. You can either email the professor or go to their UGCOM office hours if they have them. When contacting the professor:
 
@@ -129,7 +166,7 @@ Contact the professor in charge of the research lab you are interested in. You c
         1. Why you are interested in their research?
         2. What skills can you bring to benefit the research team?  
 
-#### **What happens if I don't get a research opportunity?**
+### What happens if I don't get a research opportunity?
 
 That's okay! There are endless opportunities at UCSD, whether it is computing-related or not. 
 
@@ -140,7 +177,7 @@ There are also many other [social organizations](https://studentorg.ucsd.edu/) t
 
 ## Personal Projects
 
-#### **Where do I start with personal projects? And do I need them for my resume?**
+### Where do I start with personal projects? And do I need them for my resume?
 
 1.  Personal projects are a good way of showing interest in CS outside of academics. That said, you don’t need to have personal projects on a resume but they do help in distinguishing you from other similar candidates who took the same classes.
 
@@ -168,7 +205,7 @@ There are also many other [social organizations](https://studentorg.ucsd.edu/) t
 
     3. Any piece of software that would make your life easier, even in a simple way
 
-#### **Are there any coding competitions or hackathons on campus that I can participate in to enhance my skills?**
+### Are there any coding competitions or hackathons on campus that I can participate in to enhance my skills?
 
     1. BPC from WIC 
 
@@ -194,9 +231,9 @@ There are also many other [social organizations](https://studentorg.ucsd.edu/) t
 
        6. [Hack the North](https://hackthenorth.com/) (University of Waterloo)
 
-# Networking Advice
+## Networking Advice
 
-#### **How can I proactively network with professionals in the computer science industry, as a first-year student?**
+### How can I proactively network with professionals in the computer science industry, as a first-year student?
 
 1.  There are a lot of great career fairs and networking events held at UCSD! Feel free to show up to one and just chat with the people there
 
@@ -204,19 +241,19 @@ There are also many other [social organizations](https://studentorg.ucsd.edu/) t
 
 3.  Student organizations often have alumni that are still involved. You can ask around on club Discords for advice from recent grads who are working in industry, especially on resume review or post-graduation plans.
 
-#### **What online platforms should I look at to connect with other computing majors as well as share and learn helpful resources?**
+### What online platforms should I look at to connect with other computing majors as well as share and learn helpful resources?
 
 TODO
 
-# Advice on being a Student and a Person
+## Advice on being a Student and a Person
 
-#### **What is the best way you would recommend approaching a work, school, and life balance?**
+### What is the best way you would recommend approaching a work, school, and life balance?
 
 TODO
 
-# Resources
+## Resources
 
-## Below is a curated list of resources ranging from course planning help to opportunities on campus. I thought these were super helpful to look through and learn from.
+**Below is a curated list of resources ranging from course planning help to opportunities on campus. I thought these were super helpful to look through and learn from.**
 
 - Course Planning - SchedGo (<https://schedgo.com/>): Create your schedule and import it to your Google Calendar
 
@@ -281,5 +318,3 @@ TODO
   - Career Readiness Assessment      Ask specific questions on Discord or Reddit\* ACM: acmurl.com/discord
 
 - Check the Reddit Sidebar for specific year Discord servers (<https://www.reddit.com/r/UCSD/wiki/index/>)
-
-*
