@@ -81,7 +81,10 @@ Most student organizations table at library walk and going up to their table is 
 
 ### I’m really shy and scared to go to this org event but I want to be involved.
 
-TODO
+A lot of org events, particularly General Body Meetings (GBMs), many workshops, and socials are designed to require no background. Socials often have food/drink/games/activities that allow you to play without having to already know someone in the club; For example, chatting while playing a board game is a common way people first interact with a club.
+
+If you already have a specific event in mind, consider looking for a friend who would be interested in going with you. This really helps ease you to finding a group to chat with, or in the case of a workshop, already have someone you’ve worked with before.
+
 
 ## Internships?
 
@@ -91,11 +94,19 @@ Here is some advice on how to get started:
 
 ### How do I know what I want to do?
 
-TODO
+Explore your interests and strengths. When taking a class, doing a hobby, or exploring new things, ask yourself whay made you intersted in doing these things. Be specific. For example, suppose you like the problem solving aspect of programming assignments. Identify what part of that process really interests you? Is it the abstraction of the problem in to many manageable tasks? Optimizing your solution? Looking for novel ways to solve a problem? With this in mind, it's easier to narrow down what field of computing you may really like, and it helps anyone who's trying to give you advice get to know you faster.
+
+Furthermore, the UCSD career center offers free Interest Inverntory and Indicator exams if you'd like a broader, more formal overview of your interests. These should serve as a launchpad to actually attend events, workshops, and classes in the field you think you may have interest in to really refine what niche you want to hone in on (which is particularly relevant in choosing class electives or continuing to higher education).
+
+Ultimately, understanding why you decide to do the things you do right now (or conversely why you don't want to other things) should act as your guiding principle to explore more and more. You have roughly 4 years or 12 quarters, so there's room for you to explore things even if you're unsure whether you're super interested in it. Electives are designed for just that.
 
 ### How do I make a resume if I don’t have any experience?
 
-TODO
+First, collect the basics. What's your contact info (with strong emphasis on email). Do you have a Linkedin, Github, or other similar professional platform you'd like to share? What parts of your education so far are you most proud of?
+
+Then, dig deeper. Make a personal blurb about why you're studying in this field. Ask a friend you trust about what your qualities are. Try list down every marketable skill you think you have, and compile the best ones.
+
+Ultimately, a resume is a reflection of yourself, which includes non-technical experiences too. Volunteer experiences, organization involvement, and similar things are great things to put on your resume until you feel you have other better things to place on it.
 
 ### I have a resume, how do I know if it’s good enough to apply with?
 
@@ -161,10 +172,10 @@ Once you have found the professor you are interested in doing research for, you 
 
 Contact the professor in charge of the research lab you are interested in. You can either email the professor or go to their UGCOM office hours if they have them. When contacting the professor:
 
-    1. Introduce yourself 
-    2. Why you are reaching out to them? 
-        1. Why you are interested in their research?
-        2. What skills can you bring to benefit the research team?  
+1. Introduce yourself 
+2. Why you are reaching out to them? 
+    1. Why you are interested in their research?
+    2. What skills can you bring to benefit the research team?  
 
 ### What happens if I don't get a research opportunity?
 
@@ -207,29 +218,29 @@ There are also many other [social organizations](https://studentorg.ucsd.edu/) t
 
 ### Are there any coding competitions or hackathons on campus that I can participate in to enhance my skills?
 
-    1. BPC from WIC 
+1. BPC from WIC 
 
-    2. H.A.R.D. Hack (IEEE) – Hardware specific
+2. H.A.R.D. Hack (IEEE) – Hardware specific
 
-    3. [DiamondHacks](https://diamondhacks.acmucsd.com/) (ACM) – General computing 
+3. [DiamondHacks](https://diamondhacks.acmucsd.com/) (ACM) – General computing 
 
-    4. [TritonHacks](https://www.tritonhacks.org/) (CSforeach) - General computing
+4. [TritonHacks](https://www.tritonhacks.org/) (CSforeach) - General computing
 
-    5. [San Diego Capture the Flag](https://sdc.tf/) (SDCTF from ACM) – Cybersecurity challenges
+5. [San Diego Capture the Flag](https://sdc.tf/) (SDCTF from ACM) – Cybersecurity challenges
 
-    6. Other schools also do hackathons and might provide transportation!
+6. Other schools also do hackathons and might provide transportation!
 
-       1. [LAHacks](https://lahacks.com/) (UCLA) 
+    1. [LAHacks](https://lahacks.com/) (UCLA) 
 
-       2. HackSC (USC)
+    2. HackSC (USC)
 
-       3. [AthenaHacks](https://athenahacks.com/) (USC)
+    3. [AthenaHacks](https://athenahacks.com/) (USC)
 
-       4. [TreeHacks ](https://www.treehacks.com/)(Stanford)
+    4. [TreeHacks ](https://www.treehacks.com/)(Stanford)
 
-       5. [HackMIT](https://hackmit.org/) (MIT)
+    5. [HackMIT](https://hackmit.org/) (MIT)
 
-       6. [Hack the North](https://hackthenorth.com/) (University of Waterloo)
+    6. [Hack the North](https://hackthenorth.com/) (University of Waterloo)
 
 ## Networking Advice
 
@@ -243,13 +254,21 @@ There are also many other [social organizations](https://studentorg.ucsd.edu/) t
 
 ### What online platforms should I look at to connect with other computing majors as well as share and learn helpful resources?
 
-TODO
+Discord, Instagram, and Reddit are by far the largest platforms computing majors here engage with, with the former two being places where many clubs and individuals share resources etc, and the latter where many talk about classes and university-wide events.
+
+The #general, #advice or #resources channels for many computing discord servers are packed with great advice. Try searching whatever keyword you’re looking for with “in:#advice” or any channel name, and then sort by most recent. This often uncovers a lot of great advice to commonly asked questions
+
 
 ## Advice on being a Student and a Person
 
 ### What is the best way you would recommend approaching a work, school, and life balance?
 
-TODO
+A common approach is to explicitly allocate time for socials and your personal life. This way, you have a mental image of how much time you’re spending on work, school, and your interests. It also helps set a limit on how much time you spend on each. Think of this less as a “schedule of how long I should do things” but more of a way to gauge what you need to spend more time on.
+
+Consider filling gaps between classes with meaningful, actionable goals. For example, getting lunch, playing a game, reading a book, doing exercise, seeing a friend, etc. Oftentimes, we’re tempted to think “Oh it's just 1 hour in between it's not worth going back to the dorms” even though these two hours are just as valuable as an entire lecture.
+
+Experiment. When choosing courses, remember that you can always drop later, but you can only enroll now. What this means is that if something unexpected happens, or you’d like a bit more flexibility this quarter, know that the drop without W system exists for you to try out classes and workloads in a safe manner. By reflecting often on how you approach a work-life balance, and experimenting with different workloads, you’ll have a more nuanced understanding of what you spend your time on.
+
 
 ## Resources
 
