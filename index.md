@@ -27,7 +27,7 @@
     4. [Alternatives to Research](#what-happens-if-i-dont-get-a-research-opportunity)
 6. [Personal Projects](#personal-projects)
     1. [Starting Personal Projects](#where-do-i-start-with-personal-projects-and-do-i-need-them-for-my-resume)
-    2. [Coding Competitions and Hackatons](#are-there-any-coding-competitions-or-hackathons-on-campus-that-i-can-participate-in-to-enhance-my-skills)
+    2. [Coding Competitions and Hackathons](#are-there-any-coding-competitions-or-hackathons-on-campus-that-i-can-participate-in-to-enhance-my-skills)
 7. [Networking](#networking-advice)
     1. [On Networking Proactively](#how-can-i-proactively-network-with-professionals-in-the-computer-science-industry-as-a-first-year-student)
     2. [Online Networking Platforms](#what-online-platforms-should-i-look-at-to-connect-with-other-computing-majors-as-well-as-share-and-learn-helpful-resources)
@@ -217,30 +217,28 @@ There are also many other [social organizations](https://studentorg.ucsd.edu/) t
     3. Any piece of software that would make your life easier, even in a simple way
 
 ### Are there any coding competitions or hackathons on campus that I can participate in to enhance my skills?
+UCSD has a number of them! Most are associated and put on by specific clubs or collaborations of clubs. You can get involved by participating or joining a club's board to help organize the event.
+- Individual/Group Competitions
+    - Beginner Programming Competition (WIC): Every quarter for students who have not taken upper division CS classes yet. Check out WIC's instagram for updated information.
+    - [Integration Bee](https://sums.ucsd.edu/integration-bee.html) (SUMS): Every spring, solve integrals as quickly as possible! Check the Math Department and SUMS newsletters for updated information.
+    - [San Diego Capture the Flag](https://sdc.tf/) (ACM): Every spring, solve cybersecurity challenges! Should have some beginner-level problems, but other resources include the repository of [picoCTF challenges from Carnegie Mellon](https://picoctf.org/) and [OverTheWire](https://overthewire.org/wargames/), which all help practice security concepts in a safe enviornment.
+- Hackathons
+    - [H.A.R.D. Hack](https://hardhack.dev/) (IEEE, HKN, Triton Neurotech): Hardware hackathon! They provide hardware for you to play with and sponsors generally hold workshops. [Check out past projects](https://hard-hack-2023.devpost.com/)
+    - [DiamondHacks](https://diamondhacks.acmucsd.com/) (ACM): General computing hackathon! [Check out past projects](https://diamondhacks-2024.devpost.com/)
+    - [TritonHacks](https://www.tritonhacks.org/) (CSforeach): Generally for high schoolers, but you can help plan the event, volunteer, and mentor teams.
+- Club Competitions 
+    - [Rocket Propulsion Lab](https://www.rocketproplab.org/): Learn about design and manufacturing and build rockets
+    - [Supercomputing Club](https://hpc-students.sdsc.edu/): Student cluster competition for high performance computing
+    - [Triton Robosub](https://robosub.ucsd.edu/#/): Build autonomous underwater vehicles for the RoboSub competition
+    - [Yonder Dynamics and Yonder Deep](https://yonderdynamics.org/): Design a Mars rover for the University Rover Challenge or autonomous underwater vehicles
 
-1. BPC from WIC 
-
-2. H.A.R.D. Hack (IEEE) – Hardware specific
-
-3. [DiamondHacks](https://diamondhacks.acmucsd.com/) (ACM) – General computing 
-
-4. [TritonHacks](https://www.tritonhacks.org/) (CSforeach) - General computing
-
-5. [San Diego Capture the Flag](https://sdc.tf/) (SDCTF from ACM) – Cybersecurity challenges
-
-6. Other schools also do hackathons and might provide transportation!
-
-    1. [LAHacks](https://lahacks.com/) (UCLA) 
-
-    2. HackSC (USC)
-
-    3. [AthenaHacks](https://athenahacks.com/) (USC)
-
-    4. [TreeHacks ](https://www.treehacks.com/)(Stanford)
-
-    5. [HackMIT](https://hackmit.org/) (MIT)
-
-    6. [Hack the North](https://hackthenorth.com/) (University of Waterloo)
+Other schools also do hackathons and might provide transportation!
+- [LAHacks](https://lahacks.com/) (UCLA): Every year in the Spring, look out for the application in Winter quarter. In the past, has provided bus transportation from UCSD to UCLA. 
+- [HackSC](https://www.hacksc.com/) (USC): Holds events throughout the year, 2023 included an AI hackathon and SoCal tech week in the Fall!
+- [AthenaHacks](https://athenahacks.com/) (USC): Women-centric hackathon, every year in the Spring. 
+- [TreeHacks](https://www.treehacks.com/)(Stanford): Provides housing and flight reimbursements! Generally a ton of sponsors and students from all over the country go. Every year in the Winter, look out for the application in Fall. It's pretty competitive, so don't worry if you don't get in - apply next year!
+- [HackMIT](https://hackmit.org/) (MIT): Every year in the Fall, look out for the application in early Summer. 
+- [Hack the North](https://hackthenorth.com/) (University of Waterloo)
 
 ## Networking Advice
 
@@ -274,33 +272,41 @@ Experiment. When choosing courses, remember that you can always drop later, but 
 
 **Below is a curated list of resources ranging from course planning help to opportunities on campus. I thought these were super helpful to look through and learn from.**
 
-- Course Planning - SchedGo (<https://schedgo.com/>): Create your schedule and import it to your Google Calendar
+### Course Planning 
+- [SchedGo](https://schedgo.com/): Create your schedule and import it to your Google Calendar
 
-- Degree Audit (<https://students.ucsd.edu/academics/advising/degrees-diplomas/degree-audits.html>): See what classes you need to take for graduation and what categories
+- [Degree Audit](https://students.ucsd.edu/academics/advising/degrees-diplomas/degree-audits.html): See what classes you need to take for graduation and what categories
 
-- Academic Plans (<https://plans.ucsd.edu/>): See a sample 4-year plan for your college and majorCourse Reviews\* CAPEs (<https://cape.ucsd.edu/>): Look up courses to find professor and course reviews (recommended instructor, average grade in classes, etc)
+- [Academic Plans](https://plans.ucsd.edu/): See a sample 4-year plan for your college and majorCourse Reviews\* CAPEs (<https://cape.ucsd.edu/>): Look up courses to find professor and course reviews (recommended instructor, average grade in classes, etc)
 
-- SunSET (<https://sheeptester.github.io/ucsd-sunset/>): CAPEs is unfortunately getting replaced by SET, so students are trying to crowdsource grade distribution data
+- [SunSET](https://sheeptester.github.io/ucsd-sunset/): CAPEs is unfortunately getting replaced by SET, so students are trying to crowdsource grade distribution data
 
-- UCSD Historical Enrollment Data (<https://github.com/UCSD-Historical-Enrollment-Data>): See how quickly previous classes filled up and when! This can help with choosing what classes to first vs. second pass. Check the repository for the previous year's quarter (ie. 2023Spring) and use the search bar to search for your class (ie. cse11.png)
+- [UCSD Historical Enrollment Data](https://github.com/UCSD-Historical-Enrollment-Data): See how quickly previous classes filled up and when! This can help with choosing what classes to first vs. second pass. Check the repository for the previous year's quarter (ie. 2023Spring) and use the search bar to search for your class (ie. cse11.png)
 
-- Vis-Cape (<http://vis-cape.github.io/>): Visualize size of classes vs. the average GPA, useful for finding easy GEs and what classes are commonly takenCourse Information\* Course Offerings (<https://cse.ucsd.edu/undergraduate/tentative-course-offerings>): if you're interested in seeing what classes will be held throughout the year, you can generally search "\[Department Code] course offerings" to plan what you'll take throughout the year
+- [Vis-Cape](http://vis-cape.github.io/): Visualize size of classes vs. the average GPA, useful for finding easy GEs and what classes are commonly taken
 
-- CSE 190 Classes (<https://cse.ucsd.edu/undergraduate/cse-190-topics-computer-science-and-engineering-0>): Check out special-interest classes!Research\* UCSD Undergraduate Research Hub (URH)
+### Course Information
+- [Course Offerings](https://cse.ucsd.edu/undergraduate/tentative-course-offerings): if you're interested in seeing what classes will be held throughout the year, you can generally search "\[Department Code] course offerings" to plan what you'll take throughout the year
 
-  - Includes information about dozens research opportunities, scholarships, etc
+- [CSE 190 Classes](https://cse.ucsd.edu/undergraduate/cse-190-topics-computer-science-and-engineering-0): Check out special-interest classes!
 
-- ERSP (<https://ersp.eng.ucsd.edu/>): Undergraduate CS research for second-year and transfer students
+### Research
+- [Undergraduate Research Hub (URH)](https://ugresearch.ucsd.edu/): Includes information about dozens research opportunities, scholarships, etc
 
-- UC LEADS (<https://grad.ucsd.edu/diversity/oar2/programs/undergraduate-programs/uc-leads/index.html>): 2 year program to do research at UCSD one summer and another UC campus another summer
+- [Early Research Scholars Progarm (ERSP)](https://ersp.eng.ucsd.edu): Undergraduate CS research for second-year and transfer students
 
-- NSF REU (<https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5049>): Opportunities to do research at other universities over summers
+- [UC LEADS](https://grad.ucsd.edu/diversity/oar2/programs/undergraduate-programs/uc-leads/index.html): 2 year program to do research at UCSD one summer and another UC campus another summer
 
-- Google CSRMP (<https://research.google/outreach/csrmp/>): Meet a current Google researcher in a cohort of a few undergrads to learn about research in industry, applying to grad school, getting research opportunities, etc
+- [NSF REU](https://www.nsf.gov/crssprgm/reu/list_result.jsp): Opportunities to do research at other universities over summers
 
-- UCSD SRC (<https://ugresearch.ucsd.edu/conferences/src/index.html>): Summer research conference opportunity at UCSDInternships\* Internship Symposium to see where past CSE students did research <https://internshipsymposium.ucsd.edu/>
+- [Google CSRMP](https://research.google/outreach/csrmp/): Meet a current Google researcher in a cohort of a few undergrads to learn about research in industry, applying to grad school, getting research opportunities, etc
 
-- ACM’s Software Engineering Guide (<https://acmucsd.notion.site/Software-Engineering-a3877d6649b946cab2376ec6ff72f9a4>): honestly I found this guide super helpful as it provides solid advice on resume help, internships, and all the fundamental career necessities as introductory software engineer
+- [UCSD Summer Research Conference](https://ugresearch.ucsd.edu/conferences/src/index.html): Summer research conference opportunity at UCSD
+
+### Internships
+- [Internship Symposium](https://internshipsymposium.ucsd.edu): See where past CSE students did research
+
+- [ACM’s Software Engineering Guide](https://acmucsd.notion.site/Software-Engineering-a3877d6649b946cab2376ec6ff72f9a4): honestly I found this guide super helpful as it provides solid advice on resume help, internships, and all the fundamental career necessities as introductory software engineer
 
 - [UCSD Career Center](https://career.ucsd.edu/)
 
