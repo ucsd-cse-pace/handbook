@@ -8,6 +8,8 @@
     1. [Planning Courses](#how-do-i-plan-coursesclasses)
     2. [Managing Time with Courses](#how-do-i-manage-my-time-with-all-my-classes-do-i-have-to-show-up-to-every-lecture-is-it-okay-to-skip-certain-classes)
     3. [When Struggling with Courses](#im-struggling-with-my-classes)
+    4. [General Class Planning Tips](#what-are-some-general-tips-for-class-planning)
+    5. [Miscellaneous Tips](#miscellaneous-tips)
 3. [Extracurriculars](#advice-on-extracurricular-activities)
     1. [Student Organizations](#student-organizations)
     2. [Getting Involved with Organizations](#how-should-i-get-involved-with-student-organizations-should-i-go-and-talk-with-leadership)
@@ -49,19 +51,21 @@ Also there are a lot of networking/job events that UCSD and/or Jacobs School of 
 
 ### How do I plan courses/classes?
 
-A useful tool in seeing which credits you've already fulfilled, which courses you still need to take for your major, minor, college, etc., and other degree requirements is the UCSD Degree Audit. An obvious one is WebReg which you may already use to enroll in courses, but when trying to visualize different versions of your course schedule, you can make different copies and name them accordingly!
+A useful tool in seeing which credits you've already fulfilled, which courses you still need to take for your major, minor, college, etc., and other degree requirements is the [UCSD Degree Audit](https://students.ucsd.edu/academics/advising/degrees-diplomas/degree-audits.html). An obvious one is [WebReg](https://students.ucsd.edu/academics/enroll/index.html) which you may already use to enroll in courses, but when trying to visualize different versions of your course schedule, you can make different copies and name them accordingly!
 
 Another tip is to either create your own course planner or utilize the [UCSD template](https://revelle.ucsd.edu/academics/academic-plans/index.html#Step-1:-Quarter-Planning-Worksh) in something like google sheets to plan courses you'd want to take each quarter and check them off as you go.
 
-When trying to decide which courses to take, CAPEs (now SET) and RateMyProfessor are really good resources to go to to see how much time to dedicate to each class and which Professors are good and which ones are not (which actually matters a lot when it comes to classes!) CAPES has a lot of useful quantitative data like the percent of students who recommend the course or professor, average time spent on assignments per week, and a difficulty rating. Meanwhile, RateMyProfessor has detailed qualitative reviews which dictate individual student's experiences with the professor.
+When trying to decide which courses to take, [CAPEs](https://cape.ucsd.edu/) (now [SET](https://set.ucsd.edu/)) and [RateMyProfessor](https://www.ratemyprofessors.com/) are really good resources to go to to see how much time to dedicate to each class and which Professors are good and which ones are not (which actually matters a lot when it comes to classes!) CAPES has a lot of useful quantitative data like the percent of students who recommend the course or professor, average time spent on assignments per week, and a difficulty rating. Meanwhile, RateMyProfessor has detailed qualitative reviews which dictate individual student's experiences with the professor.
 
-Lastly, make sure to keep in mind your specific college GE’s, CSE GE’s, CSE lower div reqs, and CSE upper div reqs. When all else fails, feel free to schedule an appointment with or drop into CSE or your respective college's advising! You can also submit any questions you have on the Virtual Advising Center (VAC).
+For prerequisites, check out resources like [GRAPES](https://coursegrapher.app/) or the [UCSD Course Catalog](https://ucsd.edu/catalog/courses/CSE.html) to see what classes are required for each course.
+
+Lastly, make sure to keep in mind your specific [college GE’s](https://catalog.ucsd.edu/undergraduate/graduation-requirements/index.html) and [CSE major requirements](https://catalog.ucsd.edu/curric/CSE-ug.html). When all else fails, feel free to schedule an appointment with or drop into CSE or your respective college's advising! You can also submit any questions you have on the Virtual Advising Center [(VAC)](https://stark.ucsd.edu/students/vac/).
 
 ### How do I manage my time with all my classes? Do I have to show up to every lecture? Is it okay to skip certain classes?
 
 Time-management is an important skill that you'll develop at university but things inevitably happen throughout the quarter: accidents, adverse weather, time conflicts, etc. Many classes in UCSD are designed with these in mind, e.g. you can drop your lowest HW, replace a midterm with final, etc. Use these policies to build flexibility in your schedule in case something bad happens. At the end of the day, UCSD classes and the course staff are there to help you, so don’t feel afraid to reach out.
 
-1.  If you feel like there are too many things to do in a quarter, consider taking one of the classes in a later quarter. Most classes are available every quarter, and there are many other ways to be active on campus that are not classes.
+1.  If you feel like you have too many things to do in a quarter, consider taking one of the classes in a later quarter. Most classes are available every quarter, and there are many other ways to be active on campus that are not classes. LPMs recommend taking 3 CSE classes maximum a quarter, preferably just 2 or 1.
 
 2.  Managing time is at its core understanding how you feel about a class. Consider timing how long (approximately) it took you to complete a HW for each class you have. Then reflect whether this time is reasonable, and reflect more generally about how you’re tackling the material in the class.
 
@@ -71,7 +75,26 @@ Attending a big lecture can feel really isolating and hard to meet people but my
 
 1.  Office hours. I cannot emphasize this enough but office hours are literally the key to success in every CS class. The TAs and Profs are there to HELP YOU LEARN. Show up to office hours about questions on homework, in class, or in general any conceptual questions you have. It may seem like a chore at first to show up and take time out of your day to attend even MORE supplementary learning (ugh I know) but office hours are so helpful because it’s 1-on-1 teaching where you can get help for your specific problem!! It helps to explain your through process and where you got stuck, and your TA/Prof is literally there to help you work out ever nook and cranny of your problem so that you get it 100%. They won’t judge you for not understanding stuff because that’s the whole point of office hours! We have a lot of great LPMs on PACE that are also TAs so I can personally vouch that they are super helpful and nice, and will walk you through every bit of your problem that they can. Again, cannot emphasize this enough. Show up when you can!
 
-## Advice on Extracurricular Activities
+### **What are some general tips for class planning?**
+
+- Finishing the lower divs as soon as possible is a good idea, as once you are finished with them you have so many options for CSE upper divs. For example, if you're interested in a specific field of CS such as Computer Vision, you could quickly take this class and maybe get into research in that topic! (Go to professor OH if you'd like to do this)
+- Take CSE 100 and 101 together, concepts overlap and are useful for each other/doing hw.
+- For CSE 127 (Computer Security), try taking some of the following for background knowledge: CSE 120 (Operating Systems), CSE 123 (Computer Networks), CSE 132A (Databases), and CSE 134B (Web Client Languages)
+- Take CSE 198/199 if you're interested in research!
+- Coordinate classes with friends to make collaborative projects and PAs easier.
+- Look into other departments for interesting CSE Electives!
+- When enrolling it's unlikely you'll always get classes you want, this is normal! Be flexible when planning your classes, looking at the CSE course offerings page can help you plan ahead.
+- Reddit and Discord can also be a great way to learn more about a specific class or professor. 
+- For most classes, you can look up the syllabus or other class resources from previous quarters to get an idea of what the class will be like.
+- Don't be afraid to use EASy requests to get into any prerequisite-restricted classes you are considering taking.
+
+### **Miscellaneous Tips**
+
+- Different professors teach the same class differently, feel free to ask LPMs for differences or recommendations.
+- Look into minoring! Some LPMs found that they only needed 2 more classes overall for a minor.
+- Take community college classes for cheaper GEs over summer.
+- Feel free to ask older students/LPMs for planning advice! They have a lot of experience and tips to share and are often happy to do so.
+
 
 ### Student Organizations
 
